@@ -1,0 +1,16 @@
+.print-menu {
+    animation: menu 2s ease-in;
+    -webkit-animation: menu 2s ease-in;
+}
+
+@keyframes menu {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: .5;
+    }
+    100% {
+        opacity: 1;
+    }
+}

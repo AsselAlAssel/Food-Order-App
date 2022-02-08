@@ -1,0 +1,20 @@
+.total-amount {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    p {
+        font-size: 20px;
+    }
+}
+
+.btn-total {
+    text-align: right;
+    button {
+        background: transparent;
+        border: 1px solid red;
+        font-size: 25px;
+        padding: 10px 40px;
+        text-align: center;
+        cursor: pointer;
+    }
+}

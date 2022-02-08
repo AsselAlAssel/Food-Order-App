@@ -1,0 +1,18 @@
+.card {
+    background-color: #fdfdfc;
+    margin: auto;
+    width: 90%;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    overflow: hidden;
+    padding: 20px;
+}
+
+@media (min-width:768px) {
+    .card {
+        width: 50rem;
+    }
+}

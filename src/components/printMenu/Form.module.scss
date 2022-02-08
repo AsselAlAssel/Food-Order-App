@@ -1,0 +1,18 @@
+.form-control {
+    div {
+        display: flex;
+        align-items: center;
+        padding: 5px;
+    }
+    label {
+        font-size: 18px;
+        margin-right: 10px;
+    }
+    input {
+        width: 4rem;
+    }
+    .btn-form {
+        float: right;
+        padding: 10px 3rem;
+    }
+}

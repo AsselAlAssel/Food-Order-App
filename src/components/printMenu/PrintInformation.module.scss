@@ -1,0 +1,17 @@
+.item-information {
+    span {
+        display: block;
+    }
+    .title {
+        font-size: 24px;
+        font-weight: 700;
+    }
+    .desc {
+        font-style: italic;
+    }
+    .price {
+        font-size: 24px;
+        color: #964a11;
+        font-weight: 700;
+    }
+}
